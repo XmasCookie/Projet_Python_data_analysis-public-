@@ -10,7 +10,7 @@ Parenthèse : Le dataset choisit (Bar Crawl: Detecting Heavy Drinking https://ar
 	- Le meilleur modèle exporter en pickle "model.pickle"
 	- Un script python déployant une API pour utiliser le modèle "API.py" a été réalisé avec Flask
 	- Un script python donnant une éxecution de l'API "request.py" (faire tourner l'API avant)
-	- Les données utilisées stockées dans le fichier data
+	- Les données utilisées stockées dans un fichier data (n'ont uploadé, il faut donc le télécharger sur https://archive.ics.uci.edu/ml/datasets/Bar+Crawl%3A+Detecting+Heavy+Drinking)
 
 3. Les résultats
 	- Le modèle obtenu a un taux de réussite à 80% (non négligeable) mais la base de données n'est pas assez conséquente et les conditions de l'étude pas assez réglementées pour avoir un modèle fiable
